@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sparkle Perfumes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #fef6f9;
+      padding: 50px;
+    }
+    h1 {
+      color: #d63384;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #d63384;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+    .btn:hover {
+      background: #a82364;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ Welcome to Sparkle Perfumes ✨</h1>
+  <p>Discover luxury perfumes that define elegance.</p>
+
+  <!-- Button to go to Shopping page -->
+  <a href="shop.html" class="btn">🛍️ Shop Now</a>
+</body>
+</html>
